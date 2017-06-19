@@ -1,3 +1,5 @@
+#train a bunch of autoencoders 
+
 import numpy as np
 from numpy import genfromtxt
 
